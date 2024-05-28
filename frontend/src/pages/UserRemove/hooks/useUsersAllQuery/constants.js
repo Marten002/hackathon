@@ -1,0 +1,1 @@
+export const USE_QUERY_CACHE_USERS_ALL = 'USERS_ALL'

@@ -1,0 +1,21 @@
+.text {
+    cursor: default;
+}
+
+.icon {
+    border: 1px solid rgba(31, 30, 36, 0.08);
+    border-radius: 50%;
+
+    padding: 5px;
+
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: default;
+
+    background-color: #FFC300FF;
+}

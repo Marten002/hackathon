@@ -1,0 +1,13 @@
+.text {
+    &:hover {
+        color: #006bb9 !important;
+    }
+}
+
+.active {
+    font-weight: bold !important;
+
+    &:hover {
+        color: initial !important;
+    }
+}

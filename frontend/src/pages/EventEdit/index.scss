@@ -1,0 +1,8 @@
+.editableFieldIcon {
+  opacity: 0 !important;
+  transition: .3s opacity !important;
+}
+
+.editableField:hover .editableFieldIcon {
+  opacity: 1 !important;
+}

@@ -1,0 +1,62 @@
+{
+	"name": "front",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build"
+	},
+	"dependencies": {
+		"@elastic/datemath": "^5.0.3",
+		"@elastic/eui": "^91.2.0",
+		"@emotion/css": "^11.11.2",
+		"@emotion/react": "^11.11.1",
+		"@tanstack/react-query": "^4.2.2",
+		"axios": "^0.27.2",
+		"clsx": "^2.0.0",
+		"cross-env": "^7.0.3",
+		"echarts": "^5.4.2",
+		"echarts-for-react": "^3.0.2",
+		"i18next": "^22.0.4",
+		"i18next-browser-languagedetector": "^7.0.1",
+		"i18next-http-backend": "^2.0.1",
+		"jwt-decode": "^4.0.0",
+		"lodash": "^4.17.21",
+		"moment": "^2.29.4",
+		"moment-timezone": "^0.5.43",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-i18next": "^12.0.0",
+		"react-redux": "^9.0.4",
+		"react-router-dom": "^6.21.0",
+		"react-scripts": "5.0.1",
+		"redux": "^5.0.0",
+		"redux-saga": "^1.2.3",
+		"reselect": "^5.0.1",
+		"sass": "^1.69.5",
+		"uuid": "^9.0.1"
+	},
+	"devDependencies": {
+		"eslint": "^8.54.0",
+		"eslint-plugin-react": "^7.33.2",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"eslint-plugin-unused-imports": "^3.0.0",
+		"prop-types": "^15.8.1"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"proxy": "http://79.143.25.187",
+	"volta": {
+		"node": "18.19.0"
+	}
+}

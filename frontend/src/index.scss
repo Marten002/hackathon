@@ -1,0 +1,13 @@
+@import '@elastic/eui/src/themes/amsterdam/theme_light';
+@import '@elastic/eui/src/themes/amsterdam/theme_dark';
+
+body {
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

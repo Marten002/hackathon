@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "hapi-learn",
+    "user": "hapi",
+    "password": "hapi",
+    "port": 5432,
+    "host": "localhost"
+  },
+  "smtp": {
+    "user": "fedyakov.mikhail@gmail.com",
+    "password": "pgfj ebrg iayd tgew",
+    "port": 465,
+    "host": "smtp.gmail.com"
+  },
+  "jwt_secret": "kejnejrn!)(kjld!34nt5nekvne)_*&wprfef!@fyh62ewef"
+}
